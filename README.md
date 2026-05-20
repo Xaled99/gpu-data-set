@@ -34,3 +34,4 @@ This project breaks down the data through several analytical steps:
 2. Correlation Analysis: Checking how strongly features like VRAM size or Clock Speed correlate with final pricing.
 3. Distribution Analysis: Examining the distribution of TDP (power draw) across different performance tiers.
 4. Anomalies & Outlier Detection: Using Z-scores to find "unusual" values—such as GPUs that offer incredibly high clock speeds for an unexpectedly low price point, or over-priced low-spec cards.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed2710s/gpu_dataset/blob/main/GPUData.ipynb)
